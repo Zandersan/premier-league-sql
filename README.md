@@ -17,11 +17,11 @@ The project includes:
 
 ## Creating a database and tables
 
-The process of creating the database and tables with customers, products and orders was performed using MySQL and stored in file [*premier_league.sql*](https://github.com/lucjankonopka/sql_premier_league/blob/main/premier_league.sql).
+The process of creating the database and tables with customers, products and orders was performed using MySQL and stored in file [*premier_league.sql*](https://github.com/Zandersan/premier-league-sql/blob/main/premier_league.sql).
 
 ## Analysis
 
-The documentation of the data analysis process is included in the file [*premier_league.ipynb*](https://github.com/lucjankonopka/sql_premier_league/blob/main/premier_league.ipynb).
+The documentation of the data analysis process is included in the file [*premier_league.ipynb*](https://github.com/Zandersan/premier-league-sql/blob/main/premier_league.ipynb).
 
 ## Summary
 
